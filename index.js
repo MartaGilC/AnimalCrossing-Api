@@ -4,8 +4,9 @@ const indexRoutes = require('./src/api/index/index.routes')
 const CharactersRoutes = require('./src/api/characters/characters.routes')
 
 const PORT = 3000;
-const server = express();
 db.connectDB()
+const server = express();
+
 
 server.use('/characters', CharactersRoutes)
 server.listen(PORT, ()=> {

@@ -28,6 +28,7 @@ router.post('/create', async(req, res) => {
         //console.log("nuevo personaje =>", newCharacter)
         const created = await newCharacter.save();
         
+
         return res.status(201).json(created)
         
     } catch(error){ 

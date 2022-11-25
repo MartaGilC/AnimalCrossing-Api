@@ -6,25 +6,37 @@ const characters = [
         name: "Tom Nook",
         genre: "Male",
         birthday: "30 de Mayo",
-        img: "https://i.pinimg.com/564x/1e/e4/53/1ee453e6d36c6727ecce47995fc6f73c.jpg" 
+        img: "https://static.wikia.nocookie.net/animalcrossing/images/e/e3/Tom_Nook_%28New_Horizons%29.png/revision/latest?cb=20200221070639&path-prefix=es" 
     },
     {
         name: "Juliana",
         genre: "Female",
         birthday: "5 de Mayo",
-        img: "https://i.pinimg.com/564x/9d/ee/e0/9deee04e508c3ebf51711c9c97208557.jpg" 
+        img: "https://static.wikia.nocookie.net/animalcrossing/images/3/36/Juliana_%28New_Horizons%29.png/revision/latest?cb=20200319235004&path-prefix=es" 
     },
     {
         name: "Canela",
         genre: "Female",
         birthday: "20 de Diciembre",
-        img: "https://i.pinimg.com/564x/6d/83/8c/6d838c1335b182f649852498e6b9bee3.jpg" 
+        img: "https://static.wikia.nocookie.net/nintendo/images/6/6e/Canela_SSBU.png/revision/latest?cb=20180914125238&path-prefix=es" 
     },
     {
         name: "Mili",
         genre: "Female",
         birthday: "22 de Noviembre",
-        img: "https://pm1.narvii.com/6248/a29467c04938df6d1b5eeba4ab286ad903e7fd0b_hq.jpg" 
+        img: "https://static.wikia.nocookie.net/animalcrossing/images/8/8c/Mili_%28New_Leaf%29.png/revision/latest/scale-to-width-down/150?cb=20190827100603&path-prefix=es" 
+    },
+    {
+        name: "Paca",
+        genre: "Female",
+        birthday: "5 de Julio",
+        img: "https://static.wikia.nocookie.net/animalcrossing/images/3/39/Paca_%28New_Leaf%29.png/revision/latest?cb=20180701222020&path-prefix=es" 
+    },
+    {
+        name: "Estela",
+        genre: "Female",
+        birthday: "7 de Septiembre",
+        img: "https://static.wikia.nocookie.net/animalcrossing/images/7/76/Estela_%28New_Horizons%29.png/revision/latest?cb=20200320010240&path-prefix=es" 
     }
 ]
 

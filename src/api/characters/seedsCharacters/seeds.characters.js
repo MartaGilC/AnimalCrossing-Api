@@ -6,37 +6,37 @@ const characters = [
         name: "Tom Nook",
         genre: "Male",
         birthday: "30 de Mayo",
-        img: "https://static.wikia.nocookie.net/animalcrossing/images/e/e3/Tom_Nook_%28New_Horizons%29.png/revision/latest?cb=20200221070639&path-prefix=es" 
+        img: "https://i2-prod.dailystar.co.uk/tech/gaming/article21769965.ece/ALTERNATES/s1200c/0_Animal-Crossing.jpg" 
     },
     {
         name: "Juliana",
         genre: "Female",
         birthday: "5 de Mayo",
-        img: "https://static.wikia.nocookie.net/animalcrossing/images/3/36/Juliana_%28New_Horizons%29.png/revision/latest?cb=20200319235004&path-prefix=es" 
+        img: "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2020/04/animal-crossing-new-horizons-1922389.jpg?itok=UHlvm64i" 
     },
     {
         name: "Canela",
         genre: "Female",
         birthday: "20 de Diciembre",
-        img: "https://static.wikia.nocookie.net/nintendo/images/6/6e/Canela_SSBU.png/revision/latest?cb=20180914125238&path-prefix=es" 
+        img: "https://static1-es.millenium.gg/articles/1/16/10/1/@/71964-1303809-marie-ac-orig-1-article_cover_bd-2.png" 
     },
     {
         name: "Mili",
         genre: "Female",
         birthday: "22 de Noviembre",
-        img: "https://static.wikia.nocookie.net/animalcrossing/images/8/8c/Mili_%28New_Leaf%29.png/revision/latest/scale-to-width-down/150?cb=20190827100603&path-prefix=es" 
+        img: "https://i.blogs.es/juegos/16178/animal_crossing__switch_/fotos/noticias/animal_crossing__switch_-5136008.jpg" 
     },
     {
         name: "Paca",
         genre: "Female",
         birthday: "5 de Julio",
-        img: "https://static.wikia.nocookie.net/animalcrossing/images/3/39/Paca_%28New_Leaf%29.png/revision/latest?cb=20180701222020&path-prefix=es" 
+        img: "https://acnhcdn.com/latest/NpcPoster/NpcSpAlw.png" 
     },
     {
         name: "Estela",
         genre: "Female",
         birthday: "7 de Septiembre",
-        img: "https://static.wikia.nocookie.net/animalcrossing/images/7/76/Estela_%28New_Horizons%29.png/revision/latest?cb=20200320010240&path-prefix=es" 
+        img: "https://static1-es.millenium.gg/articles/7/19/40/7/@/91866-qzliw3evufq41-orig-1-article_cover_bd-1.jpeg" 
     }
 ]
 

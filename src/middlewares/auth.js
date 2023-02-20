@@ -7,7 +7,7 @@ const isAuth = async (req, res, next) => {
         if(!token){
             return next("Unauthorized");
         } 
-        const parsedToken = token.replace("Bearer", "");
+        const parsedToken = token.replace("Bearer ", "");
         const validToken = verifyJwt(parsedToken);
         const userLogged = await User.findById(validToken.id);
 
